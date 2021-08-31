@@ -98,7 +98,7 @@ let person: Person = {
     }
 }
 
-class ComputerSudent implements Person{
+class ComputerStudent implements Person{
     firstName: string;
     lastName: String;
     getFullName(value: string){
